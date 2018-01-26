@@ -28,5 +28,5 @@ app.listen(8888);
 
 
 
-// Check Cookie: 
+// Check Cookie
 // console.log(document.cookie);
