@@ -1,0 +1,20 @@
+*{
+    font-family: 'Poppins-Light', Arial, Helvetica, sans-serif;
+    background-color: #3b3842;
+    color: white;
+    font-size: 20px;
+    
+}
+
+.hello {
+    padding: 20px 112px;
+}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 38px 30px;
+    box-sizing: border-box;
+    border-radius: 6px;
+   
+}
